@@ -1,0 +1,12 @@
+:root{
+    --bg-body: gray;
+}
+
+body{
+    background-color: var(--bg-body);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    
+}
